@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @joelwiigo
+
+- 👋 Hi, I’m a UGANDAN
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on a number of projects
